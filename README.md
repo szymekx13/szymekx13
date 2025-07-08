@@ -1,4 +1,5 @@
-## Hi there 👋
+## Technologies 🖥️
+![Static Badge](https://img.shields.io/badge/CSS-blue)
 
 <!--
 **szymekx13/szymekx13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
