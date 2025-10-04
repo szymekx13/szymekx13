@@ -4,8 +4,6 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-red?style=for-the-badge&logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=git&logoColor=%23F05032&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=openjdk)
-
 
 ## 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szymekx13&show_icons=true&theme=dark)
